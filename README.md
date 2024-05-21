@@ -1,4 +1,4 @@
-# Paint Brush Using JAVA
+# Paint Brush Desktop Application Using JAVA
 Paint Brush Applet Programmed with Java and utilizing OOP concepts. 
 
 Paint Brush is an Applet based application that enables the user to draw basic shapes with different
